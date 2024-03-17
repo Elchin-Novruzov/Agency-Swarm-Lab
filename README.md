@@ -49,7 +49,4 @@ To get started with creating your own custom AI agency using the Agency Swarm La
 # Contributing
 We encourage contributions to the Agency Swarm Lab! If you have developed a custom AI agency using the Agency Swarm framework and would like to share it, please submit a pull request with your project.
 
-# Stay Updated
-Don't forget to subscribe to our [YouTube channel](https://youtube.com/@vrsen?si=l_6znuALa3IOl6ft) for tutorials and updates on the Agency Swarm framework and the amazing projects being developed with it.
-
 Thank you for exploring the Agency Swarm Lab. Together, let's transform the future of work with AI.
